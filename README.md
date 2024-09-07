@@ -1,2 +1,2 @@
 # Simple-Stats
-A Gorilla Tag mod wich gives you an overlay with some performance stats.
+A Gorilla Tag mod which gives you an overlay with some performance stats.
